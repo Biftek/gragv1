@@ -1,0 +1,22 @@
+[
+{
+"name": "BeefTacos",
+"uuid": "5131887d-5bca-4b2d-8ea5-35b2a6e9792a",
+"enabled": "true",
+"cape-style": "",
+"cape-enabled": "true",
+"hat-enabled": "true",
+"hat-r": "255",
+"hat-g": "0",
+"hat-b": "0",
+"wings-enabled": "true",
+"wings-r": "100.1F",
+"wings-g": "0.1F",
+"wings-b": "0.1F",
+"glasses-enabled":"true",
+"eastereggs-enabled":"true",
+"susanoo-enabled":"true",
+"headset-enabled":"true",
+"fez-enabled":"true"
+}
+]
